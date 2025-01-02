@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 First Year Student at UofA
-- 🤔 Interested in Web Design or AI
+- 🤔 Interested in Web Design or AI.
 - ⚡ I like playing videogames!
 
 
