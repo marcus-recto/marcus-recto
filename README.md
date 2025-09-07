@@ -1,9 +1,4 @@
-## Hi there 👋
-
-- 🌱 First Year Student at UofA
-- 🤔 Interested in Web Design or AI.
-- ⚡ I like playing videogames!
-
+UAlberta student
 
 <!--
 **marcus-recto/marcus-recto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
